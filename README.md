@@ -43,7 +43,7 @@ The app will make an API call to retrieve the data and display it in an easy-to-
 - Retrofit: For making network calls.
 - Gson: For JSON serialization/deserialization.
 - AndroidX: For various Android support libraries.
-- Compose (if applicable): For building the UI.
+- Jetpack Compose: For building the UI.
 
 ## Acknowledgements
 
